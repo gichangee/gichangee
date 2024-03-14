@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=140&section=header&text=Gichang%20Github&fontSize=55)
 
 ## 🛠️ Tech Stacks
