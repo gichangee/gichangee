@@ -18,7 +18,7 @@
 ![vite]
 ![html]
 ![css]
-
+![Javascript]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gichangee&show_icons=true&theme=radical)
 
 <a href="https://github.com/anuraghazra/convoychat">
