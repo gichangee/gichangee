@@ -16,7 +16,7 @@
 ![mybatis](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![vite](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![html]
+![html](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![css]
 ![Javascript]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gichangee&show_icons=true&theme=radical)
