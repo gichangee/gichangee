@@ -9,11 +9,12 @@
 <h3>백엔드 (Backend)</h3><br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![JSP/Servlet](https://img.shields.io/badge/JSP%2FServlet-007396?style=flat-square&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring-9ACD32?style=flat&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringBoot-9ACD32?style=flat&logo=SpringBoot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"> 
+
 
 
 <h3>툴 (Tools)</h3>
