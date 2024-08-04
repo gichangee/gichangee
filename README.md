@@ -15,6 +15,16 @@
 <img src="https://img.shields.io/badge/SpringBoot-9ACD32?style=flat&logo=SpringBoot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"> 
 
+
+<h3>툴 (Tools)</h3>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+<!--
+
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
+<img src="https://img.shields.io/badge/SpringToolSuite4-9ACD32?style=flat-square&logo=Ajax&logoColor=white"> 
+
 <h3>프론트엔드 (Frontend)</h3><br>
 
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -27,11 +37,7 @@
 
 
 
-<h3>툴 (Tools)</h3>
 
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
-<img src="https://img.shields.io/badge/SpringToolSuite4-9ACD32?style=flat-square&logo=Ajax&logoColor=white"> 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 
 ## 👨‍💼 Stats
@@ -42,6 +48,8 @@
 ## 🥇 Algorithm Solve
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkgc0504)](https://solved.ac/parkgc0504/)
+
+-->
 
 ## 📋 PortFolio
 
